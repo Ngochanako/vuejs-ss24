@@ -1,0 +1,60 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Hello",
+      "img": "https://img.freepik.com/premium-photo/bathroom-with-wooden-vanity-mirror_1092042-698.jpg",
+      "created_at": "2024-04-12",
+      "status": true
+    },
+    {
+      "id": 1728715632430,
+      "title": "ngoc",
+      "img": "https://img.freepik.com/premium-photo/bathroom-with-wooden-vanity-mirror_1092042-698.jpg",
+      "created_at": "2024-10-12",
+      "status": false
+    },
+    {
+      "id": 1728716211414,
+      "title": "Hello World ",
+      "img": "https://img.freepik.com/premium-photo/bathroom-with-wooden-vanity-mirror_1092042-698.jpg",
+      "created_at": "2024-10-12",
+      "status": false
+    },
+    {
+      "id": 1728716319108,
+      "title": "B",
+      "img": "https://img.freepik.com/premium-photo/bathroom-with-wooden-vanity-mirror_1092042-698.jpg",
+      "created_at": "2024-09-30",
+      "status": false
+    },
+    {
+      "id": 1728716524975,
+      "title": "A",
+      "img": "https://img.freepik.com/premium-photo/bathroom-with-wooden-vanity-mirror_1092042-698.jpg",
+      "created_at": "2024-09-30",
+      "status": false
+    },
+    {
+      "id": 1728716621202,
+      "title": "C",
+      "img": "https://img.freepik.com/premium-photo/bathroom-with-wooden-vanity-mirror_1092042-698.jpg",
+      "created_at": "2024-10-01",
+      "status": false
+    },
+    {
+      "id": 1728717211363,
+      "title": "E",
+      "img": "https://img.freepik.com/premium-photo/bathroom-with-wooden-vanity-mirror_1092042-698.jpg",
+      "created_at": "2024-09-30",
+      "status": false
+    },
+    {
+      "id": 1728717230899,
+      "title": "F",
+      "img": "https://img.freepik.com/premium-photo/bathroom-with-wooden-vanity-mirror_1092042-698.jpg",
+      "created_at": "2024-10-15",
+      "status": false
+    }
+  ]
+}
